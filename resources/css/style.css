@@ -21,9 +21,16 @@ h2 {
     font-family: "Raleway", sans-serif;
 }
 
+.container {
+    border: 5px solid black;
+    padding: 20px;
+    margin: 50px;
+}
+
 .color-board {
     padding: 20px;
-    width: 300px;
+    text-align: center;
+    margin: auto;
 }
 
 #charcoal {
@@ -44,10 +51,4 @@ h2 {
 
 #burnt-sienna {
     background-color: #e76f51;
-}
-
-.container {
-    border: 5px solid black;
-    padding: 20px;
-    margin: 50px;
 }
