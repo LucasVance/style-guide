@@ -27,3 +27,23 @@ h2 {
     margin: 20px;
     border: 5px solid black;
 }
+
+#charcoal {
+    background-color: #264653;
+}
+
+#persian-green {
+    background-color: #2a9d8f;
+}
+
+#orange-yellow {
+    background-color: #e9c46a;
+}
+
+#sandy-brown {
+    background-color: #f4a261;
+}
+
+#burnt-sienna {
+    background-color: #e76f51;
+}
