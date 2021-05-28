@@ -21,6 +21,11 @@ h2 {
     font-family: "Raleway", sans-serif;
 }
 
+.color-board {
+    padding: 20px;
+    width: 300px;
+}
+
 #charcoal {
     background-color: #264653;
 }
@@ -44,4 +49,5 @@ h2 {
 .container {
     border: 5px solid black;
     padding: 20px;
+    margin: 50px;
 }
